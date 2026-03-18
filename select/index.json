@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "真夏BEAT",
+  "base_artist": "畠中 祐",
+  "createdAt": "2026-03-18T12:45:48.844543Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夏BEAT",
+      "artist": "畠中祐",
+      "has_synced": false,
+      "path": "select/pl_01_真夏BEAT_畠中祐.txt"
+    }
+  ]
+}
